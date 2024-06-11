@@ -1,0 +1,24 @@
+h1{
+    background-color: black;
+    color: white;
+
+    width: 345;
+    border-radius: 8px;
+    text-align: center;
+    padding-top: 12px;
+    padding-bottom: 12px;
+
+}
+p{
+    color: #0078ff;
+}
+button{
+    color: #0078ff;
+    background-color: white;
+    /* border: 선두께 선스타일 색상 */
+    border: 1px solid #0078ff;
+    border-radius: 4px;
+    padding-top: 3px;
+    padding-left: 3px;
+    padding-right: 8px;
+}

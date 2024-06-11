@@ -1,0 +1,18 @@
+/* css파일 style 담당일찐
+대상{
+
+    style에 넣었던 문버들 넣으면됨
+}*/
+
+h1{
+    color:pink;
+    font-family: monospace;
+}
+button{
+    color: aqua;
+    font-family: fantasy;
+}
+a{
+    color: chartreuse;
+    font-weight: 400;
+}
